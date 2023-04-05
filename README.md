@@ -1,6 +1,6 @@
-# Hi there, I'm Your Name! 👋
+# Hi there, I'm Rafael S. de Souza! 👋
 
-I'm a software developer, passionate about web development, open-source projects, and programming languages. 
+I'm a Senior Lecturer in Data Science at University of Hertfordshire and Chair of the Cosmostatistics Initiative 
 
 - 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on open-source projects
