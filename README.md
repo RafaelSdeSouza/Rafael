@@ -2,7 +2,6 @@
 
 I'm a Senior Lecturer in Data Science at University of Hertfordshire and Chair of the Cosmostatistics Initiative 
 
-- 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [Email](mailto:rafael.2706@gmail.com)
 
