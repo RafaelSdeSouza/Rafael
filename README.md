@@ -1,4 +1,4 @@
-# I'm Rafael S. de Souza!
+# Dr Rafael S. de Souza
 
 I'm a Senior Lecturer in Data Science at University of Hertfordshire and Chair of the Cosmostatistics Initiative 
 
